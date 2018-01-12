@@ -8,7 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Sige sige sige lng
 ## Sige sige sige lng
+### Sige sige sige lng
+
+- hayaan mo sila
+- oh diba
 
 ```markdown
 Syntax highlighted code block
